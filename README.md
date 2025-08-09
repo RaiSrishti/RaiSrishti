@@ -6,8 +6,7 @@
  -->
 
 About Me:
-<br>💡 I'm looking to collaborate on **web development projects, especially those involving JavaScript, Tailwind CSS, and TypeScript.**  <br>🔍 I'm looking for help with **optimizing authentication flows and backend integrations.**  <br>💬 Ask me about **React, JavaScript, Tailwind CSS, MySQL, MongoDB, .**  
-
+<br>💡 I'm looking to collaborate on **web development projects, especially those involving JavaScript, Tailwind CSS, and TypeScript.**  <br>🔍 I'm looking for help with **optimizing authentication flows and backend integrations.**  <br>💬 Ask me about **React, JavaScript, Tailwind CSS, MySQL, MongoDB.** <br> 🔭 I’m currently working on **GlowCare**  <br>🌱 I’m currently learning **Docker** to expand my backend skills 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/skanda_palechar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/srishti-rai-m/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srishtirai1611@gmail.com) 
@@ -28,18 +27,6 @@ About Me:
 ---
 [![](https://visitcount.itsvg.in/api?id=RaiSrishti&icon=0&color=0)](https://visitcount.itsvg.in)
 ###  
-
-- 🔭 I’m currently working on **GlowCare**  
-
-- 🌱 I’m currently learning **Docker** to expand my backend skills
-
-- 👨‍💻 All of my projects are available at https://github.com/RaiSrishti
-
-- 📫 How to reach me *srishtirai1611@gmail.com*
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RaiSrishti/RaiSrishti/output/snake.svg" alt="Snake animation" />
-</div>
 
 <!--<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaiSrishti&theme=dracula&hide_border=false" alt="RaiSrishti"/>
